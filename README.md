@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://github.githubassets.com/images/mona-loading.gif)
+![](https://github.githubassets.com/images/mona-loading-dark.gif)
+
 <!--
 **J56164/J56164** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
