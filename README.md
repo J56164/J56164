@@ -3,7 +3,7 @@
     <h3>Hi there 👋</h3>
   </summary>
   <div>
-    [Can you see me?](read_me_next.md)
+    <a href="read_me_next.md">Can you see me?</a>
   </div>
 </details>
 
